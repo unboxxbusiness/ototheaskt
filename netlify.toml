@@ -1,0 +1,11 @@
+# Netlify configuration file for THEASKT Next.js Application
+[build]
+  # Commands to run to build your site
+  command = "npm run build"
+  
+  # Directory that contains the deploy-ready assets (Next.js build output directory)
+  publish = ".next"
+
+# Automatically enable the Next.js Runtime on Netlify for full support of App Router, Next.js API Routes, Server Actions, and dynamic rendering.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

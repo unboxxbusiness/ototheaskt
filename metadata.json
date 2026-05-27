@@ -1,0 +1,6 @@
+{
+  "name": "THEASKT Pre-Booking",
+  "description": "Pre-book your founding seat for THEASKT's transformational live Sunday masterclass at 8:00 PM IST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

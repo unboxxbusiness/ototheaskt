@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-saffron: #D4680A;
+  --color-saffron-hover: #BF5D09;
+  --color-indigo: #4A3090;
+  --color-ivory: #FAF5E8;
+  --color-night: #1C1208;
+  --color-cream: #F3EAD8;
+  --color-earth: #7A5A38;
+}
